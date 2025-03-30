@@ -9,8 +9,8 @@ Key Features:
 5. Submit Button: Includes a submit button that triggers a form submission and sends data (though actual submission can be simulated for demo purposes).
 
 Technologies Used:
-HTML: For structuring the form and input fields.
-CSS: For styling the form, including media queries to make it responsive.
-Optional (JavaScript): For enhancing user experience with form validation and interactions.
+1. HTML: For structuring the form and input fields.
+2. CSS: For styling the form, including media queries to make it responsive.
+3. Optional (JavaScript): For enhancing user experience with form validation and interactions.
 
 Objective: The goal of this project is to create a professional, visually appealing, and accessible contact form that works on a wide range of devices. The form will be styled using CSS with a focus on responsive design principles, ensuring that it adapts to various screen sizes and provides an excellent user experience.
